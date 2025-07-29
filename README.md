@@ -37,7 +37,8 @@
 </div>
 
 
-<div align="center">[](url)
+<div align="center">[]
+  
 ### 💻 Programming Languages And Technologies
 
 
