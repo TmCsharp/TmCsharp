@@ -48,6 +48,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="70" height="70" title="C#"/>
 <img src="https://custom-icon-badges.demolab.com/badge/-Web_API-512BD4.svg?logo=webapi&logoColor=white" width="70" height="70" title="Web API"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="70" height="70" title="MS SQL Server"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="80" alt="GitHub"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="120" alt="GitHub"/>
 </div>
 
 
