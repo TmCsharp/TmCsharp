@@ -46,7 +46,7 @@
 <div align="center">
 
 ### Languages
-<div style="font-size: 24px; display: flex; flex-wrap: wrap; justify-content: center; gap: 25px;">
+<div style="font-size: 194px; display: flex; flex-wrap: wrap; justify-content: center; gap: 25px;">
   <div style="text-align: center;">A</div>
   <div style="text-align: center;">B</div>
   <div style="text-align: center;">C</div>
