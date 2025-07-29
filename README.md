@@ -5,9 +5,13 @@
 
 🔭 Currently working on: Leveling up my skills to become a better developer every day
 
+🎓 Education: Computer Science at Plovdiv University & (SoftUni Certified C#/.NET Developer)
+
 🌱 Currently learning: Everything I should know to build amazing projects
 
 💡 Interested in: Web development, open source, and creative coding
+
+🔥 Passionate About: Clean architecture, algorithmic thinking, and creative problem-solving
 
 😄 Pronouns: Typhoon (like the force of nature!)
 
