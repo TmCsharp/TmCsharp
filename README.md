@@ -47,7 +47,7 @@
 
 ### Languages
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <img src="https://img.shields.io/badge/-A-1572B6?style=flat&logo=A&logoColor=white" />
+  <img [](url)src="https://camo.githubusercontent.com/6c02f67afb9d52b07fd7e734432c108235a7b37b8b5f3a2d1097d8e70f31d3a3/68747470733a2f2f7777772e7376677265706f2e636f6d2f73686f772f3335333632322f632d73686172702e737667" />
   <img src="https://img.shields.io/badge/-B-1572B6?style=flat&logo=B&logoColor=white" />
   <img src="https://img.shields.io/badge/-C-1572B6?style=flat&logo=C&logoColor=white" />
   <img src="https://img.shields.io/badge/-D-1572B6?style=flat&logo=D&logoColor=white" />
