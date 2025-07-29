@@ -46,19 +46,19 @@
 <div align="center">
 
 ### Languages
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 100px;">
-  
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/-C-1572B6?style=flat&logo=C&logoColor=white" />
-  <img src="https://img.shields.io/badge/-D-1572B6?style=flat&logo=D&logoColor=white" />
-  <img src="https://img.shields.io/badge/-E-1572B6?style=flat&logo=E&logoColor=white" />
-  <img src="https://img.shields.io/badge/-F-1572B6?style=flat&logo=F&logoColor=white" />
-  <img src="https://img.shields.io/badge/-G-1572B6?style=flat&logo=G&logoColor=white" />
-  <img src="https://img.shields.io/badge/-H-1572B6?style=flat&logo=H&logoColor=white" />
-  <img src="https://img.shields.io/badge/-I-1572B6?style=flat&logo=I&logoColor=white" />
-  <img src="https://img.shields.io/badge/-J-1572B6?style=flat&logo=J&logoColor=white" />
-  <img src="https://img.shields.io/badge/-K-1572B6?style=flat&logo=K&logoColor=white" />
-  <img src="https://img.shields.io/badge/-M-1572B6?style=flat&logo=M&logoColor=white" />
+<div style="font-size: 24px; display: flex; flex-wrap: wrap; justify-content: center; gap: 25px;">
+  <div style="text-align: center;">A</div>
+  <div style="text-align: center;">B</div>
+  <div style="text-align: center;">C</div>
+  <div style="text-align: center;">D</div>
+  <div style="text-align: center;">E</div>
+  <div style="text-align: center;">F</div>
+  <div style="text-align: center;">G</div>
+  <div style="text-align: center;">H</div>
+  <div style="text-align: center;">I</div>
+  <div style="text-align: center;">J</div>
+  <div style="text-align: center;">K</div>
+  <div style="text-align: center;">M</div>
 </div>
 
 ### Frameworks
