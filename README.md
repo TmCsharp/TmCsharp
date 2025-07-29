@@ -19,9 +19,4 @@
 
 ## 📈 Github Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TmcSharp&layout=compact&theme=radical&hide_border=true") 
-
-## 📈 GitHub Stats
-## 📈 GitHub Stats
-
-<img align="right" src="https://streak-stats.demolab.com/?user=TmcSharp&theme=radical&hide_border=true" alt="GitHub Streak" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TmcSharp&layout=compact&theme=radical&hide_border=true") <img align="right" src="https://streak-stats.demolab.com/?user=TmcSharp&theme=radical&hide_border=true" alt="GitHub Streak" />
