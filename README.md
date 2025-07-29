@@ -49,6 +49,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="70" height="70" title="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="70" height="70" title="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="70" height="70" title="CSS3"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" width="70" height="70" title=".NET"/>
+
+<!-- Web API -->
+<img src="https://custom-icon-badges.demolab.com/badge/-Web_API-512BD4.svg?logo=webapi&logoColor=white" width="70" height="70" title="Web API"/>
+
+<!-- MS SQL -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="70" height="70" title="MS SQL Server"/>
 </div>
 
 
