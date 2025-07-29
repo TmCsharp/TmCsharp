@@ -11,9 +11,9 @@
 
 😄 Pronouns: Typhoon (like the force of nature!)
 
-⚡ Fun fact: I can work hard as i can and travel aroundr the world
+⚡ Fun fact: When I'm not coding, you'll find me working on projects or exploring new places around the world!
 
-📫 How to reach me: ivasabotinova@gmail.com
+📫 How to reach me: tyfnmehmed@gmail.com
 
 
 
