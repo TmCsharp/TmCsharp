@@ -25,11 +25,3 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TmcSharp&layout=compact&theme=radical&hide_border=true") <img align="right" src="https://streak-stats.demolab.com/?user=TmcSharp&theme=radical&hide_border=true" alt="GitHub Streak" />
 
-
-
-
-# Hi there 👋 I'm Tayfun (Typhoon)
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=460&lines=💪+Fall+3+times+Stand+4+times;🎯+Relentless+problem+solver;🚀+Turning+setbacks+into+code" alt="Motivational motto" />
-</div>
