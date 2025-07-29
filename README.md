@@ -17,8 +17,7 @@
 
 ⚡ Fun fact: When I'm not coding, you'll find me working on projects or exploring new places around the world!
 
-📫 How to reach me: <span style="font-size: 24px; color: #FF6B6B;">tyfnmehmed@gmail.com</span>
-
+📫 How to reach me: <h3><a href="mailto:tyfnmehmed@gmail.com">📧 tyfnmehmed@gmail.com</a></h3>
 
 
 ## 📈 Github Stats
@@ -38,8 +37,3 @@
 </div>
 
 
-<h3 style="color: #FF6B6B; margin-top: 10px;">
-  <a href="mailto:tyfnmehmed@gmail.com" style="text-decoration: none;">
-    📧 tyfnmehmed@gmail.com
-  </a>
-</h3>
