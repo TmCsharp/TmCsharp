@@ -19,4 +19,17 @@
 
 ## 📈 Github Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TmcSharp&layout=compact&theme=radical&hide_border=true") ******* ![GitHub Stats](https://streak-stats.demolab.com/?user=TmcSharp&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TmcSharp&layout=compact&theme=radical&hide_border=true") 
+
+## 📈 GitHub Stats
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div>
+    <!-- Your left-aligned content here -->
+    ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TmcSharp&layout=compact&theme=radical&hide_border=true)
+  </div>
+  <div>
+    <!-- Right-aligned streak stats -->
+    ![GitHub Streak](https://streak-stats.demolab.com/?user=TmcSharp&theme=radical&hide_border=true)
+  </div>
+</div>
