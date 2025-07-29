@@ -13,6 +13,8 @@
 
 🔥 Passionate About: Clean architecture, algorithmic thinking, and creative problem-solving
 
+🗣 Languages: English, Bulgarian, Turkish
+
 😄 Pronouns: Typhoon (like the force of nature!)
 
 ⚡ Fun fact: When I'm not coding, you'll find me working on projects or exploring new places around the world!
