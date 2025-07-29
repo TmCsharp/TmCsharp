@@ -1,8 +1,9 @@
 # Hi there 👋 I'm Tayfun (Typhoon)
 
+
 ## 🚀 About Me
 
-+ 🔭 Currently working on: Leveling up my skills to become a better developer every day
+🔭 Currently working on: Leveling up my skills to become a better developer every day
 
 🌱 Currently learning: Everything I should know to build amazing projects
 
@@ -11,6 +12,9 @@
 😄 Pronouns: Typhoon (like the force of nature!)
 
 ⚡ Fun fact: I can work hard as i can and travel aroundr the world
+
+📫 How to reach me: ivasabotinova@gmail.com
+
 
 
 # 📈 Github Stats
