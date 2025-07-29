@@ -48,18 +48,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="70" height="70" title="C#"/>
 <img src="https://custom-icon-badges.demolab.com/badge/-Web_API-512BD4.svg?logo=webapi&logoColor=white" width="70" height="70" title="Web API"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="70" height="70" title="MS SQL Server"/>
-
-<!-- GitHub Standard Logo -->
-![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)
-
-<!-- GitHub Wordmark -->
-![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg)
-
-<!-- GitHub Dark (for dark backgrounds) -->
-![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg?color=white)
-
-<!-- GitHub Octocat Mascot -->
-![GitHub](https://github.githubassets.com/images/icons/octicons/mark-github.svg)
   
 </div>
 
