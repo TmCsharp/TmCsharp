@@ -15,7 +15,7 @@
 
 🗣 Languages: English, Bulgarian, Turkish
 
-😄 Pronouns: Typhoon (like the force of nature!)
+😄 Pronouns: Typhoon (more reliable than weather forecasts)
 
 ⚡ Fun fact: When I'm not coding, you'll find me working on projects or exploring new places around the world!
 
