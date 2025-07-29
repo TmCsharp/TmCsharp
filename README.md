@@ -36,3 +36,6 @@
     </tr>
   </table>
 </div>
+
+
+<marquee behavior="alternate" style="font-size: 20px;">📧 tyfnmehmed@gmail.com</marquee>
