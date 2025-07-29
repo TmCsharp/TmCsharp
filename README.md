@@ -48,7 +48,7 @@
 ### Languages
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   
-  <img src="[https://img.shields.io/badge/-B-1572B6?style=flat&logo=B&logoColor=white](https://cdn.iconscout.com/icon/free/png-256/free-csharp-1175240.png)" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/-C-1572B6?style=flat&logo=C&logoColor=white" />
   <img src="https://img.shields.io/badge/-D-1572B6?style=flat&logo=D&logoColor=white" />
   <img src="https://img.shields.io/badge/-E-1572B6?style=flat&logo=E&logoColor=white" />
