@@ -46,7 +46,7 @@
 <div align="center">
 
 ### Languages
-<p align="center" style="font-size: 24px; letter-spacing: 2px;">
+<p align="center" style="font-size: 100px; letter-spacing: 5px;">
 A · B · C · D · E · F · G · H · I · J · K · M
 </p>
 
