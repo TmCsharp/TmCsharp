@@ -17,7 +17,7 @@
 
 
 
-# 📈 Github Stats
+## 📈 Github Stats
 
 https://github-readme-stats.vercel.app/api/top-langs/?username=TmcSharp&layout=compact&theme=radical&hide_border=true"
 
