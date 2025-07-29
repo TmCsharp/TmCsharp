@@ -17,7 +17,7 @@
 
 ⚡ Fun fact: When I'm not coding, you'll find me working on projects or exploring new places around the world!
 
-📫 How to reach me: <h2>tyfnmehmed@gmail.com</h2>
+📫 How to reach me: <span style="font-size: 24px; color: #FF6B6B;">tyfnmehmed@gmail.com</span>
 
 
 
