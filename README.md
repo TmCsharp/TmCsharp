@@ -1,9 +1,6 @@
-## Hi there 👋 I'm [Tayfun]
+## Hi there 👋 I'm Tayfun 
 
-<!--
-**TmCsharp/TmCsharp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+![Trophies](https://github-profile-trophy.vercel.app/?username=TmcSharp&theme=onedark&column=7)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
