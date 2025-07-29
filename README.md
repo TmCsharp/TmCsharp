@@ -37,4 +37,4 @@
 </div>
 
 
-style="text-decoration: none;">tyfnmehmed@gmail.com</a>
+<a href="mailto:tyfnmehmed@gmail.com" style="text-decoration: none;">tyfnmehmed@gmail.com</a>
