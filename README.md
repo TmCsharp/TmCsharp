@@ -46,20 +46,9 @@
 <div align="center">
 
 ### Languages
-<div style="font-size: 194px; display: flex; flex-wrap: wrap; justify-content: center; gap: 25px;">
-  <div style="text-align: center;">A</div>
-  <div style="text-align: center;">B</div>
-  <div style="text-align: center;">C</div>
-  <div style="text-align: center;">D</div>
-  <div style="text-align: center;">E</div>
-  <div style="text-align: center;">F</div>
-  <div style="text-align: center;">G</div>
-  <div style="text-align: center;">H</div>
-  <div style="text-align: center;">I</div>
-  <div style="text-align: center;">J</div>
-  <div style="text-align: center;">K</div>
-  <div style="text-align: center;">M</div>
-</div>
+<p align="center" style="font-size: 24px; letter-spacing: 2px;">
+A · B · C · D · E · F · G · H · I · J · K · M
+</p>
 
 ### Frameworks
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-top: 15px;">
