@@ -3,7 +3,7 @@
 
 ## 🚀 About Me
 
-🔭 Currently working on: Leveling up my skills to become a better developer every day
+### 🔭 Currently working on: ### Leveling up my skills to become a better developer every day
 
 🎓 Education: Computer Science at Plovdiv University & (SoftUni Certified C#/.NET Developer)
 
