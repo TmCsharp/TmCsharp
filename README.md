@@ -13,6 +13,8 @@
 ⚡ Fun fact: I can work hard as i can and travel aroundr the world
 
 
+# 📈 Github Stats
+
 https://github-readme-stats.vercel.app/api/top-langs/?username=TmcSharp&layout=compact&theme=radical&hide_border=true"
 
 
