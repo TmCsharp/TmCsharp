@@ -38,7 +38,39 @@
 
 ### 💻 Programming Languages And Technologies
 
-[Git Stats](https://camo.githubusercontent.com/6c02f67afb9d52b07fd7e734432c108235a7b37b8b5f3a2d1097d8e70f31d3a3/68747470733a2f2f7777772e7376677265706f2e636f6d2f73686f772f3335333632322f632d73686172702e737667)
 
 
 
+## 🛠 Programming Languages and Technologies
+
+<div align="center">
+
+### Languages
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <img src="https://img.shields.io/badge/-A-1572B6?style=flat&logo=A&logoColor=white" />
+  <img src="https://img.shields.io/badge/-B-1572B6?style=flat&logo=B&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C-1572B6?style=flat&logo=C&logoColor=white" />
+  <img src="https://img.shields.io/badge/-D-1572B6?style=flat&logo=D&logoColor=white" />
+  <img src="https://img.shields.io/badge/-E-1572B6?style=flat&logo=E&logoColor=white" />
+  <img src="https://img.shields.io/badge/-F-1572B6?style=flat&logo=F&logoColor=white" />
+  <img src="https://img.shields.io/badge/-G-1572B6?style=flat&logo=G&logoColor=white" />
+  <img src="https://img.shields.io/badge/-H-1572B6?style=flat&logo=H&logoColor=white" />
+  <img src="https://img.shields.io/badge/-I-1572B6?style=flat&logo=I&logoColor=white" />
+  <img src="https://img.shields.io/badge/-J-1572B6?style=flat&logo=J&logoColor=white" />
+  <img src="https://img.shields.io/badge/-K-1572B6?style=flat&logo=K&logoColor=white" />
+  <img src="https://img.shields.io/badge/-M-1572B6?style=flat&logo=M&logoColor=white" />
+</div>
+
+### Frameworks
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-top: 15px;">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat&logo=.net&logoColor=white" />
+</div>
+
+### Tools
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-top: 15px;">
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
+</div>
+
+</div>
