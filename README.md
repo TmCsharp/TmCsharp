@@ -42,10 +42,6 @@
 
 <div align="center">
 
-### Languages
-<p align="center" style="font-size: 25px; letter-spacing: 5px;">
-A · B · C · D · E · F · G · H · I · J · K · M
-</p>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50" style="margin: 0 15px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="50" height="50" style="margin: 0 15px;" />
