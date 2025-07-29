@@ -17,7 +17,7 @@
 
 ⚡ Fun fact: When I'm not coding, you'll find me working on projects or exploring new places around the world!
 
-📫 How to reach me: <big><a href="mailto:tyfnmehmed@gmail.com">tyfnmehmed@gmail.com</a></big>
+📫 How to reach me: **[📧 tyfnmehmed@gmail.com](mailto:tyfnmehmed@gmail.com)**
 
 
 ## 📈 Github Stats
