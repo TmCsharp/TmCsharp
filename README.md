@@ -38,4 +38,8 @@
 </div>
 
 
-<marquee behavior="alternate" style="font-size: 20px;">📧 tyfnmehmed@gmail.com</marquee>
+<h3 style="color: #FF6B6B; margin-top: 10px;">
+  <a href="mailto:tyfnmehmed@gmail.com" style="text-decoration: none;">
+    📧 tyfnmehmed@gmail.com
+  </a>
+</h3>
