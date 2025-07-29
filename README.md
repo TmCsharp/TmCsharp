@@ -18,8 +18,12 @@
 
 
 ## 📈 Github Stats
+## 📈 GitHub Stats
 
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TmcSharp&layout=compact&theme=radical&hide_border=true" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=TmcSharp&theme=radical&hide_border=true" width="48%" />
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
+
+<!-- Main Stats Card -->
+<div style="flex: 1; min-width: 300px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=TmcSharp&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" style="width: 100%;"/>
 </div>
+
