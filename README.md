@@ -45,8 +45,8 @@
 
 <div align="center">
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 55px; margin: 45px 0;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="70" height="70" title="C#"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" width="70" height="70" title=".NET
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="70" height="70" title="C#"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" width="70" height="70" title=".NET"/>
 <img src="https://custom-icon-badges.demolab.com/badge/-Web_API-512BD4.svg?logo=webapi&logoColor=white" width="70" height="70" title="Web API"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="70" height="70" title="MS SQL Server"/>
 </div>
