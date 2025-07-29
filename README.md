@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Tayfun (Typhoon)
+# Hi there 👋  I'm Tayfun (Typhoon)
 
 
 ## 🚀 About Me
@@ -19,7 +19,7 @@
 
 ## 📈 Github Stats
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=TmcSharp&layout=compact&theme=radical&hide_border=true"
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TmcSharp&layout=compact&theme=radical&hide_border=true")
 
 
 https://streak-stats.demolab.com/?user=TmcSharp&theme=radical&hide_border=true
